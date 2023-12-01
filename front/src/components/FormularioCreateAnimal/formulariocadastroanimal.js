@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import styles from "../FormularioCadastroAnimal/formulariocadastroanimal.module.css";
-import { VoltarWhiteButton } from "../WhiteButton/white_button";
+import styles from "./formulariocadastroanimal.module.css";
+import { VoltarWhiteButton } from "../WhiteButton";
 import { updateTutor } from "../../../services/tutorService";
 import { useRouter } from "next/router";
 

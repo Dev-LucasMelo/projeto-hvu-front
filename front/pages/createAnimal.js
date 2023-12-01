@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import styles from "../src/components/CadastroTutorEndereco/formulariocadastrotutor.module.css";
 import {Header04} from "../src/components/Header/header";
 import Footer from "../src/components/Footer/Footer";
-import FormularioCadastroAnimal from "../src/components/FormularioCadastroAnimal/formulariocadastroanimal";
+import FormularioCadastroAnimal from "../src/components/FormularioCreateAnimal/formulariocadastroanimal";
 
 
 function PageCadastroAnimal(){
